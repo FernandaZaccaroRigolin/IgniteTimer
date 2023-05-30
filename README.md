@@ -2,8 +2,8 @@
 
 ## Pomodoro Timer
 
-![CapaWeb](src/assets/images/thumbTimerWeb.png)
-![CapaHistoricoWeb](src/assets/images/thumbHistoryWeb.png)
+![CapaWeb](src/assets/Imagem0.png)
+![CapaHistoricoWeb](src/assets/Imagem1.png)
 
 &nbsp;
 <a id="-sobre-o-projeto"></a>
@@ -66,13 +66,5 @@ npm install
 cd web
 npm run dev
 ```
-
-
-&nbsp;
-<a id="-licença"></a>
-
-## 📝 Licença
-
-Este projeto é [MIT licensed](./LICENSE).
 
 ##### _#CompartilheConhecimento_
